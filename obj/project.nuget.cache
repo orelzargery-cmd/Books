@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCbCQU+5icyqBWdf6B1BeWhI2oEqT2kRInnl/gEtqH6gD0juC0G6oQzGiZdLSHbyz9BA1EMoJnuF2EVySGEiWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lizza\\source\\repos\\targil\\targil\\targil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lizza\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
